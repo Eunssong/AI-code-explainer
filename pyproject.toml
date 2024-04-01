@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "eunsong"
+version = "0.1.0"
+description = ""
+authors = ["eunsong"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.1.11"
+openai = "^1.13.3"
+streamlit = "^1.31.1"
+langchain-openai = "^0.0.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
