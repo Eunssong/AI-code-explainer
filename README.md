@@ -1,2 +1,2 @@
-# gemma_streamlit
+# AI code explainer
 gemma_streamlit
